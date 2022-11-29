@@ -1,5 +1,10 @@
 package com.LineComparison;
 
+/**
+ * 
+ * @author Kapil
+ *
+ */
 public class LineComaprisonMain {		
 	
 		public static void main(String[] args) {
